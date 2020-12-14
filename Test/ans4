@@ -1,0 +1,7 @@
+Match: aaa/bb/aa
+Match: aa//aab
+Match: b/dfg/ghhg
+Match: ab//
+Match: acaca
+Mismatch: cccc
+Match: /cccc

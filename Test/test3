@@ -1,0 +1,14 @@
+4
+a**b
+**/abc/
+home/**
+**/test/**
+8
+ab
+/abc/
+abc/abc/
+home/
+home
+/test/
+abc/test/abc
+home/Desktop

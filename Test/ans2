@@ -1,0 +1,6 @@
+Match: abc
+Match: abcd
+Match: a/c
+Mismatch: bc
+Mismatch: ab
+Match: abb

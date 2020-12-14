@@ -1,0 +1,8 @@
+Match: aa
+Match: ammmna
+Match: test
+Match: home
+Match: uooptest
+Mismatch: home_test/
+Mismatch: a/mm/a
+Match: home

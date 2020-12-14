@@ -1,0 +1,8 @@
+Match: ab
+Match: /abc/
+Match: abc/abc/
+Match: home/
+Mismatch: home
+Match: /test/
+Match: abc/test/abc
+Match: home/Desktop
